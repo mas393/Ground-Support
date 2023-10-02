@@ -13,7 +13,7 @@ import ComponentsTab from './tabs/components-tab';
 import RocketDetailsTab from './tabs/rocket-details-tab';
 import RocketMissionsTab from './tabs/rocket-missions-tab';
 
-// Popups
+// Popusp
 import ComponentModal from '../components/modals/ComponentModal';
 import RocketProfilePopup from '../components/RocketProfilePopup';
 import MissionConfig from '../components/MissionConfig';
